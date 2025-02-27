@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Adonay1398. I upload personal projects to build my portfolio and for fun! 👋
+## 🚀 About Me  
 
-<!--
-**Adonay1398/Adonay1398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🎯 "Passionate about coding and building cool projects."
+-💡 "Always learning and experimenting with new technologies."
+- 💻 Passionate about backend development and AI-driven applications.  
+- 🖥️ Experienced in **Python, Java, Git, and GitHub**.  
+- 🔍 Always exploring new technologies and improving my coding skills.  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools  
+- **Languages:** 🐍 Python | ☕ Java  
+- **Backend:** 🖥️ Django   
+- **Databases:** 🗄️ PostgreSQL   
+- **Version Control:** 🔧 Git & GitHub  
+- **Other:** ⚡ Docker | Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 📫 Let's Connect!  
+- 📧 Email: luisadonay98@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/luis-adonay-peña-briceño-106a1a13a)  
