@@ -1,4 +1,4 @@
-# Hi, I'm Adonay1398. I upload personal projects to build my portfolio and for fun! 👋
+# Hi, I'm Adonay1398. 👋
 ## 🚀 About Me  
 
 -🎯 "Passionate about coding and building cool projects."
